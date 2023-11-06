@@ -1,0 +1,11 @@
+.statisticsList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+  }
+  
+  .statisticsItem {
+    font-weight: 500;
+  }
